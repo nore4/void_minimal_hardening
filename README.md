@@ -1,0 +1,1 @@
+# Minimal-hardening-with-bash
