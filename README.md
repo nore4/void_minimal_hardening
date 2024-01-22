@@ -1,3 +1,3 @@
 # Minimal-hardening-with-bash
 
-Exam project 2022
+This script is discontinued for now, don't use this!
